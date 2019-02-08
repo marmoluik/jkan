@@ -15,7 +15,8 @@ update_freq: ''
 date_issued: 2019/02/07
 date_modified: 2019/02/07
 organization: Riigikogu Kantselei
+logo: RK.jpg
 maintainer_name: Riigikogu Kantselei
 maintainer_email: riigikogu@riigikogu.ee
-maintainer_phone: ''
+maintainer_phone: '372 631 6331'
 ---
